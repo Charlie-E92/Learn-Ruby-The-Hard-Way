@@ -2,7 +2,6 @@ puts "Mary had a little lamb."
 # string interpolation is used to puts a string inside a string
 puts "Its fleece was white as #{'snow'}."
 puts "And everywhere that Mary went."
-# puts ',' 10 times
 puts "." * 10
 
 #end 1-12 are set to a string
