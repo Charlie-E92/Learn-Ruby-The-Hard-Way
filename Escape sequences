@@ -1,0 +1,15 @@
+Escape sequences
+
+\\ = Backslash
+\' = Single quote
+\" = Double Quote
+\a = ASCII bell (BEL)
+\b = ASCII backspace (BS)
+\f = ASCII formfeed (FF)
+\n = ASCII linefeed (LF)
+\r = ASCII carriage return (CR)
+\t = ASCII horizontal tab (TAB)
+\uxxxx = Character with 16-bit hex value xxxx (Unicode only)
+\v = ASCII vertical tab (VT)
+\ooo = Character with octal value ooo
+\xhh = Character with hex value hhh
